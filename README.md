@@ -70,6 +70,31 @@ corremos con el comando bundle exec guard
 
 vemos que tenemos las pruebas hechas y en pendiente ya que aun no las hemos implementado 
 
+Aumentaremos una linea de codigo para comenzar con la primera prueba :
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/f8633d93-c40b-4e81-b341-96d658ac9bec)
+
+Llamma a search_tmdd con cierto parametros para verificar que se puede acceder a esta dirrecion 
+
+ejecutamos la prueba :
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/9f348e46-2bf1-48f3-8127-078ffcdb5a33)
+
+como vemos esta falla , ya que aun no hemos configurado esta ruta 
+si cambiamos la ruta 
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/27f5cf7a-d1bb-49ac-9a03-241c3f85d7bc)
+
+veremos que ahora si pasa la prueba 
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/24e14452-066a-431b-9516-4370789453d8)
+
+tenermos 3 pruebas 0 fallos y 2 pendientes , quiere decir que paso la prueba restante 
+
+
+
+
+
 
 
 
