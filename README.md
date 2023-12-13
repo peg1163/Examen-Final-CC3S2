@@ -47,7 +47,35 @@ ingresaremos a la direccion donde se corre el servidor :
 
 ![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/84be81bb-8eed-41f5-9151-254612bdaa2e)  
 
-### Paso 1 : 
+### Paso 1 
+Prepararemos el campo de vistas para poder hacer TDD , primero completaremos el formulario , luego , agregaremos los botones para ir de search_tmdb hacia index y viceversa 
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/c6b27136-027c-4d0c-81d3-a3463ba7d343)
+
+botones 
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/ffc4ae1d-0bd7-4afd-879b-0c2b496c0a73)  
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/ab8781db-f5a7-489d-8198-a0c7673caab7)
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/41460b9e-d35e-4df9-a582-d82a37135c9a)
+
+Crearemos un archivo donde se albergaran nuestras pruebas 
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/96c275b8-b1b9-4b1d-8b81-ab1b7019fa11)  
+
+corremos con el comando bundle exec guard 
+
+![image](https://github.com/peg1163/Examen-Final-CC3S2/assets/92898224/6fa78267-4515-46a4-8506-213f6f8e3e99)
+
+vemos que tenemos las pruebas hechas y en pendiente ya que aun no las hemos implementado 
+
+
+
+
+
+
+
 
 
 
